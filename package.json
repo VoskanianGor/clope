@@ -1,0 +1,16 @@
+{
+  "name": "clope",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "npx tsx ./src/main.ts"
+  },
+  "keywords": [],
+  "author": "Vosckanian Gor",
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^3.12.2"
+  }
+}
