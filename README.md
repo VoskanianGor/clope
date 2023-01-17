@@ -14,4 +14,4 @@ And see result on console.
 
 ## Dev Dependencies
 
-This module has a dev dependency on `tsx` version 3.12.2 or higher.
+This module has a dev dependency on [tsx](https://www.npmjs.com/package/tsx) version 3.12.2 or higher.
